@@ -27,6 +27,4 @@ https://github.com/apsun/QuoteLock <br />
 Source code URL: 
 https://github.com/apsun/QuoteLock <br />
 Package: 
-com.crossbowffs.quotelock
-
-Apologies for the really long update delay, I've been really busy with school. In other news, Visual Novel as a Service has migrated to Google App Engine. If you experience refreshing errors, try flushing your DNS cache.
+[com.crossbowffs.quotelock](https://github.com/Xposed-Modules-Repo/com.crossbowffs.quotelock/releases/tag/1.4.0)
