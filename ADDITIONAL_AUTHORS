@@ -1,1 +1,8 @@
-[]
+[{
+	"type": "add",
+	"name": "apsun",
+	"link": "https://github.com/apsun"
+}, {
+	"type": "remove",
+	"name": "soumyamahunt"
+}]
